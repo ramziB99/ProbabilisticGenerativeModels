@@ -11,3 +11,11 @@ In this course, we will first review the theoretical background required to unde
 * Expectation Maximization algorithm 
 * Change of variable theorem  
 * Neural parameterization of probability distributions
+
+Based on this, we will study modern generative models based on neural networks:
+* Variational Auto-Encoders (VAEs),
+* Generative Adversarial Networks (GANs),
+* Flow models,
+* Energy networks.
+
+
