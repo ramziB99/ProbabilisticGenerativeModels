@@ -19,3 +19,4 @@ Based on this, we will study modern generative models based on neural networks:
 * Energy networks.
 
 
+
